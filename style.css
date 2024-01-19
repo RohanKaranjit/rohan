@@ -64,7 +64,10 @@
     text-align: center;
 }
 /* spacing on all sections */
-#about, #services, #portfolio, #contact {
+#services{
+    padding-top: 4rem;
+}
+#about, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
